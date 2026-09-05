@@ -12,7 +12,7 @@ FastFind is a lightweight, high-performance desktop file search utility built wi
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/Miaoumap24/FastFind.git
    cd FastFind
 
